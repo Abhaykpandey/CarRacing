@@ -1,0 +1,1 @@
+alert("Only use for Desktop.")
